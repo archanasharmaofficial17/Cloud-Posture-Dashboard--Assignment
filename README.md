@@ -6,9 +6,15 @@ Organizations using multiple cloud platforms face difficulty in identifying and 
 Designed a Cloud Security Dashboard that provides a centralized view of issues, allows filtering, and helps users take action.
 
 ## Screens
-1. Dashboard View
-2. Filtered Issues View
-3. Issue Details View
+
+### 1. Dashboard View
+![Dashboard](dashboard.jpg)
+
+### 2. Filtered Issues View
+![Filtered Issues](filtered-issues.jpg)
+
+### 3. Issue Details View
+![Issue Details](issue-details.jpg)
 
 ## Tools Used
 - Figma (UI Design)
